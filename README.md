@@ -22,10 +22,10 @@ Computer with MATLAB software
 
 
 ## Program:
-num=[1]
-den=[1 15 50 0]
-sys=tf(num,den)
-rlocus(sys)
+num=[1]<br>
+den=[1 15 50 0]<br>
+sys=tf(num,den)<br>
+rlocus(sys)<br>
 [k poles]=rlocfind(sys)
 
 ## Output:
